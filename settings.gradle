@@ -1,0 +1,8 @@
+rootProject.name = 'Solutions'
+include 'google'
+include 'facebook'
+include 'codeforces'
+include 'leetcode'
+include 'atcoder'
+include 'scratch'
+
